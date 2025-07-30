@@ -1,3 +1,13 @@
 * {
-    background-color: aqua;
+    background-image: url(./IMG/papel.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.txt-1{
+    text-align: center;
+}
+.img-1{
+    width: 166px;
+    background-image: url(./IMG/download.jpg);
 }
