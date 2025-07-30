@@ -8,6 +8,11 @@
     text-align: center;
 }
 .img-1{
-    width: 166px;
+    width: 444px;
+    height: 216px;
+    margin: 0 auto;
     background-image: url(./IMG/download.jpg);
+    border-radius: 5px;
+    border-bottom: 7px solid rgb(112, 110, 110);
+    border-right: 7px solid rgb(112, 110, 110);
 }
