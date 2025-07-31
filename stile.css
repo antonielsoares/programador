@@ -16,3 +16,9 @@
     border-bottom: 7px solid rgb(112, 110, 110);
     border-right: 7px solid rgb(112, 110, 110);
 }
+.txt-2{
+    margin: 32px auto;
+    font-size: 32px;
+    width: 477px;
+    text-align: center;
+}
