@@ -9,8 +9,23 @@
         font-size: 22px;
     }
     .img-2{
-    width: 204px;
-    height: 116px;
-    
-}
+        width: 204px;
+        height: 116px; 
+    }
+    .container{
+        width: 100%;
+
+        
+    }
+    .img-3{
+        float: none;
+        margin: 0 15px;
+    }
+    .txt-3 {
+        padding: 20px 10px;
+        margin: 0 16px;
+        height: auto;
+        width: 86%;
+        text-align: center;
+    }
 }

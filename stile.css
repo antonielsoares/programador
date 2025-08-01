@@ -1,4 +1,4 @@
-* {
+* body {
     box-sizing: 0;
     margin: 0;
 }
@@ -7,7 +7,7 @@ header{
     background-image: url(./IMG/papel.jpg);
     background-size: cover;
     background-position: center;
-
+    border-bottom: 2px solid rgb(92, 91, 91);
 }
 .txt-1{
     margin: 30px auto;
@@ -42,25 +42,24 @@ header{
     background-size: contain;
     border-radius: 5px;
 }
-
+.container{
+    width: 999px;
+    margin: 0 auto;
+}
 .motivacao{
-    background-color: rgb(186, 175, 252);
-    left: 12%;
-    width: 80%;
-    margin: 44px 0;
-    position: absolute;
-
+    
+    width: 100%;
 }
 .img-3{
     float: right;
-    width: 533px;  
+    width: 377px;
+    height: 162px;
 }
-.txt-3{
-    margin-left: 20px;
-    margin-top: 60px;
-    width: 504px;
-    height: 144px;
+.txt-3 {
+    padding: 40px 30px;
+    background-color: aqua;
+    height: 82px;
+    width: 550px;
+    margin-bottom: 45px;
 }
-.clean{
-    clear: both;
-}
+
