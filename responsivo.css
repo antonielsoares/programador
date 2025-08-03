@@ -1,4 +1,4 @@
-@media screen and (max-width: 412px) {
+@media screen and (max-width: 340px) {
      
     .img-1{
         width: 244px;
@@ -19,6 +19,7 @@
         margin: 0 17px;
     }
     .img-3{
+        width: 300px;
         float: none;
         margin-bottom: -10px;
     }
