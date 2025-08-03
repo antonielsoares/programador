@@ -1,0 +1,32 @@
+@media screen and (max-width: 1004px) {
+    .container{
+        margin: 0 20px;     
+    }
+    .primeiro-quadro{
+        background-image: none;
+    }
+    .assunto-1{
+        margin: 0 auto;
+        text-align: center;
+        display: block;
+       
+    }
+    .img-3{
+        
+        background-color: aqua;
+        width: 80%;
+        
+    }
+    .txt-3{    
+        margin: 20px auto;
+        width: 80%;
+        padding: 0;
+        
+    }
+}
+@media screen and (max-width: 425px) {
+      .txt-3{    
+       font-size: 14px;  margin: 10px auto;
+       
+    }
+}
