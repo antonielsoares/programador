@@ -13,19 +13,19 @@
         height: 116px; 
     }
     .container{
-        width: 100%;
-
-        
+        margin: 0;
+}
+    .motivacao{
+        margin: 0 17px;
     }
     .img-3{
         float: none;
-        margin: 0 15px;
+        margin-bottom: -10px;
     }
     .txt-3 {
-        padding: 20px 10px;
-        margin: 0 16px;
+        padding: 10px 10px;
         height: auto;
-        width: 86%;
+        width: 116%;
         text-align: center;
     }
 }
