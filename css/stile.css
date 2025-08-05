@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * body {
     box-sizing: 0;
     margin: 0;
@@ -37,3 +38,17 @@ header{
 }
 
 
+=======
+* body {
+    box-sizing: 0;
+    margin: 0;
+
+}
+header{ 
+    background-image: url(../img/papel.jpg);
+    padding: 33px 20px;
+    text-align: center;
+}
+
+
+>>>>>>> d84c3651c896dec15b39867d59e49528fd5efc53
