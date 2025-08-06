@@ -21,15 +21,16 @@ header{
     display: flex;
     justify-content: center;
     padding: 30px 0;
-    height: 244px;
+    height: 100%;
 }
 
 .img-3{
-       
     width: 355px;
     
 }
-.txt-3{    
+.txt-3{   
+    font-family: inherit;
+     widows: 4; 
     width: 665px;
     padding: 22px 30px;
     color: rgb(52, 52, 190);
